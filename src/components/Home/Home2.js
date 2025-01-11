@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Angular.
                 </b>
               </i>
               <br />
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/ankitkundal12"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/ankit_kundal12"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ankit-kundal-24a05b230/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/ankitkundal2003"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
